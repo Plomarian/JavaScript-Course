@@ -1,0 +1,9 @@
+{
+  "welcome" : "Welcome to the Mortgage/Car Loan Calculator!",
+  "invalidMoney" : "Invalid input! Choose an amount between $1000 and $100000.",
+  "invalidYears" : "Invalid input! Choose between 1 and 25 years.",
+  "invalidAPR" : "Invalid input! Choose between 0 and 100.",
+  "askAPR" : "What is the annual percentage rate?",
+  "askAmountMoney" : "What amount of money do you want to get loaned? ($10000 to $200000)",
+  "askYears" : "Choose the preferable duration of your loan (max. 25 years)."
+}
